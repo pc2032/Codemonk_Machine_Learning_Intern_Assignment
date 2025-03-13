@@ -8,7 +8,7 @@ A trained model(train_model.py)that mainly uses styles and images for training a
 
 A test script(test_model.py) to use the model along with a few sample images from amazon to test the model(test_images).
 
-Data set from https://www.kaggle.com/datasets/paramaggarwal/fashion-product- images-dataset. Needs to be downloaded, Extracted and saved as fashion-dataset for analysis and training of the model
+Data set from https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset. Needs to be downloaded, Extracted and saved as fashion-dataset for analysis and training of the model
 Also require fashion_model.h5 for actual trained prediction from the link https://drive.google.com/file/d/1pucriwJXEdGgNde9kZ9bxKoZ9PffKnm-/view?usp=sharing
 
 utilized python and libraries such as
